@@ -45,5 +45,4 @@ pip install -r requirements.txt
 
 ## 👤 Author
 **Muhammad Abdul Rehman**
-BS Data Science - UET Lahore
 CodeAlpha Data Science Internship
