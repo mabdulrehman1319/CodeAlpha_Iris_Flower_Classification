@@ -44,5 +44,5 @@ pip install -r requirements.txt
 4. Run all cells
 
 ## 👤 Author
-**Muhammad Abdul Rehman**
+**Muhammad Abdul Rehman**   
 CodeAlpha Data Science Internship
