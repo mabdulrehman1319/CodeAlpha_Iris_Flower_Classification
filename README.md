@@ -13,13 +13,13 @@ A Machine Learning classification project that trains a Random Forest model to c
 - Jupyter Notebook
 
 ## 📓 Notebook Structure
-1. **Data Overview** — Loading dataset, understanding shape, columns and basic statistics
-2. **Data Cleaning** — Checking missing values, dropping unnecessary Id column
-3. **Data Visualization** — Species distribution, pairplot, correlation heatmap, boxplots
-4. **Model Building** — Label encoding, train/test split, Random Forest Classifier training
-5. **Model Evaluation** — Accuracy score, classification report, confusion matrix
-6. **Feature Importance** — Which features contributed most to classification
-7. **Key Insights & Conclusions** — Summary of findings
+1. **Data Overview** - Loading dataset, understanding shape, columns and basic statistics
+2. **Data Cleaning** - Checking missing values, dropping unnecessary Id column
+3. **Data Visualization** - Species distribution, pairplot, correlation heatmap, boxplots
+4. **Model Building** - Label encoding, train/test split, Random Forest Classifier training
+5. **Model Evaluation** - Accuracy score, classification report, confusion matrix
+6. **Feature Importance** - Which features contributed most to classification
+7. **Key Insights & Conclusions** - Summary of findings
 
 ## 🔍 Key Insights
 - Random Forest Classifier achieved **100% accuracy** on the test set
@@ -29,7 +29,7 @@ A Machine Learning classification project that trains a Random Forest model to c
 - The confusion matrix confirms zero misclassifications on all 30 test samples
 
 ## 📁 Dataset
-- `Iris.csv` — 150 samples of Iris flowers with 4 measurements and species label
+- `Iris.csv` - 150 samples of Iris flowers with 4 measurements and species label
 
 ## ▶️ How to Run
 1. Clone the repository:
@@ -45,4 +45,5 @@ pip install -r requirements.txt
 
 ## 👤 Author
 **Muhammad Abdul Rehman**
+BS Data Science - UET Lahore
 CodeAlpha Data Science Internship
